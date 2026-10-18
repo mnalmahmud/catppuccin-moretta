@@ -1,0 +1,31 @@
+{
+  "name": "Moretta",
+  "colors": {
+    "crust": "#06060c",
+    "mantle": "#100d16",
+    "base": "#16131f",
+    "surface0": "#292937",
+    "surface1": "#3f404d",
+    "surface2": "#545667",
+    "overlay0": "#6a6c7f",
+    "overlay1": "#7d8092",
+    "overlay2": "#9397a8",
+    "subtext0": "#a8adc2",
+    "subtext1": "#c0c6d8",
+    "text": "#d3dcf2",
+    "rosewater": "#f7e8e6",
+    "flamingo": "#f6d8d8",
+    "pink": "#f5cce9",
+    "mauve": "#d3adf7",
+    "red": "#fe90c1",
+    "maroon": "#e6aec1",
+    "peach": "#ffc697",
+    "yellow": "#fff4c9",
+    "green": "#a6f5b9",
+    "teal": "#a6fceb",
+    "sky": "#78e4f9",
+    "sapphire": "#5fcdfc",
+    "blue": "#89bfff",
+    "lavender": "#b3c0fe"
+  }
+}

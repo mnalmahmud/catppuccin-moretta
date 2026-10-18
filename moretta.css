@@ -1,0 +1,28 @@
+:root {
+  --ctp-moretta-crust: #06060c;
+  --ctp-moretta-mantle: #100d16;
+  --ctp-moretta-base: #16131f;
+  --ctp-moretta-surface0: #292937;
+  --ctp-moretta-surface1: #3f404d;
+  --ctp-moretta-surface2: #545667;
+  --ctp-moretta-overlay0: #6a6c7f;
+  --ctp-moretta-overlay1: #7d8092;
+  --ctp-moretta-overlay2: #9397a8;
+  --ctp-moretta-subtext0: #a8adc2;
+  --ctp-moretta-subtext1: #c0c6d8;
+  --ctp-moretta-text: #d3dcf2;
+  --ctp-moretta-rosewater: #f7e8e6;
+  --ctp-moretta-flamingo: #f6d8d8;
+  --ctp-moretta-pink: #f5cce9;
+  --ctp-moretta-mauve: #d3adf7;
+  --ctp-moretta-red: #fe90c1;
+  --ctp-moretta-maroon: #e6aec1;
+  --ctp-moretta-peach: #ffc697;
+  --ctp-moretta-yellow: #fff4c9;
+  --ctp-moretta-green: #a6f5b9;
+  --ctp-moretta-teal: #a6fceb;
+  --ctp-moretta-sky: #78e4f9;
+  --ctp-moretta-sapphire: #5fcdfc;
+  --ctp-moretta-blue: #89bfff;
+  --ctp-moretta-lavender: #b3c0fe;
+}

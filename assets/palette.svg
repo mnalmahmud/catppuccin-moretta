@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="313" viewBox="0 0 1200 313" role="img" aria-labelledby="title desc">
+  <title id="title">Moretta palette</title>
+  <desc id="desc">Moretta's 26 colors, arranged in three Catppuccin groups: fourteen accents, nine background colors, and three typography colors.</desc>
+  <rect width="1200" height="313" rx="22" fill="#16131f"/>
+  <rect x="1" y="1" width="1198" height="311" rx="21" fill="none" stroke="#3f404d" stroke-width="2"/>
+  <text x="55" y="39" fill="#c0c6d8" font-size="15" font-weight="700" letter-spacing="2" font-family="Inter, Segoe UI, Arial, sans-serif">ACCENTS</text>
+  <rect x="55.00" y="52" width="72.29" height="45" rx="7" fill="#f7e8e6" stroke="#545667" stroke-opacity="0.6"><title>rosewater · #f7e8e6</title></rect>
+  <rect x="133.29" y="52" width="72.29" height="45" rx="7" fill="#f6d8d8" stroke="#545667" stroke-opacity="0.6"><title>flamingo · #f6d8d8</title></rect>
+  <rect x="211.57" y="52" width="72.29" height="45" rx="7" fill="#f5cce9" stroke="#545667" stroke-opacity="0.6"><title>pink · #f5cce9</title></rect>
+  <rect x="289.86" y="52" width="72.29" height="45" rx="7" fill="#d3adf7" stroke="#545667" stroke-opacity="0.6"><title>mauve · #d3adf7</title></rect>
+  <rect x="368.14" y="52" width="72.29" height="45" rx="7" fill="#fe90c1" stroke="#545667" stroke-opacity="0.6"><title>red · #fe90c1</title></rect>
+  <rect x="446.43" y="52" width="72.29" height="45" rx="7" fill="#e6aec1" stroke="#545667" stroke-opacity="0.6"><title>maroon · #e6aec1</title></rect>
+  <rect x="524.71" y="52" width="72.29" height="45" rx="7" fill="#ffc697" stroke="#545667" stroke-opacity="0.6"><title>peach · #ffc697</title></rect>
+  <rect x="603.00" y="52" width="72.29" height="45" rx="7" fill="#fff4c9" stroke="#545667" stroke-opacity="0.6"><title>yellow · #fff4c9</title></rect>
+  <rect x="681.29" y="52" width="72.29" height="45" rx="7" fill="#a6f5b9" stroke="#545667" stroke-opacity="0.6"><title>green · #a6f5b9</title></rect>
+  <rect x="759.57" y="52" width="72.29" height="45" rx="7" fill="#a6fceb" stroke="#545667" stroke-opacity="0.6"><title>teal · #a6fceb</title></rect>
+  <rect x="837.86" y="52" width="72.29" height="45" rx="7" fill="#78e4f9" stroke="#545667" stroke-opacity="0.6"><title>sky · #78e4f9</title></rect>
+  <rect x="916.14" y="52" width="72.29" height="45" rx="7" fill="#5fcdfc" stroke="#545667" stroke-opacity="0.6"><title>sapphire · #5fcdfc</title></rect>
+  <rect x="994.43" y="52" width="72.29" height="45" rx="7" fill="#89bfff" stroke="#545667" stroke-opacity="0.6"><title>blue · #89bfff</title></rect>
+  <rect x="1072.71" y="52" width="72.29" height="45" rx="7" fill="#b3c0fe" stroke="#545667" stroke-opacity="0.6"><title>lavender · #b3c0fe</title></rect>
+  <text x="55" y="128" fill="#c0c6d8" font-size="15" font-weight="700" letter-spacing="2" font-family="Inter, Segoe UI, Arial, sans-serif">BACKGROUND COLORS</text>
+  <rect x="55.00" y="141" width="115.78" height="45" rx="7" fill="#06060c" stroke="#545667" stroke-opacity="0.6"><title>crust · #06060c</title></rect>
+  <rect x="176.78" y="141" width="115.78" height="45" rx="7" fill="#100d16" stroke="#545667" stroke-opacity="0.6"><title>mantle · #100d16</title></rect>
+  <rect x="298.56" y="141" width="115.78" height="45" rx="7" fill="#16131f" stroke="#545667" stroke-opacity="0.6"><title>base · #16131f</title></rect>
+  <rect x="420.33" y="141" width="115.78" height="45" rx="7" fill="#292937" stroke="#545667" stroke-opacity="0.6"><title>surface0 · #292937</title></rect>
+  <rect x="542.11" y="141" width="115.78" height="45" rx="7" fill="#3f404d" stroke="#545667" stroke-opacity="0.6"><title>surface1 · #3f404d</title></rect>
+  <rect x="663.89" y="141" width="115.78" height="45" rx="7" fill="#545667" stroke="#545667" stroke-opacity="0.6"><title>surface2 · #545667</title></rect>
+  <rect x="785.67" y="141" width="115.78" height="45" rx="7" fill="#6a6c7f" stroke="#545667" stroke-opacity="0.6"><title>overlay0 · #6a6c7f</title></rect>
+  <rect x="907.44" y="141" width="115.78" height="45" rx="7" fill="#7d8092" stroke="#545667" stroke-opacity="0.6"><title>overlay1 · #7d8092</title></rect>
+  <rect x="1029.22" y="141" width="115.78" height="45" rx="7" fill="#9397a8" stroke="#545667" stroke-opacity="0.6"><title>overlay2 · #9397a8</title></rect>
+  <text x="55" y="217" fill="#c0c6d8" font-size="15" font-weight="700" letter-spacing="2" font-family="Inter, Segoe UI, Arial, sans-serif">TYPOGRAPHY</text>
+  <rect x="55.00" y="230" width="359.33" height="45" rx="7" fill="#a8adc2" stroke="#545667" stroke-opacity="0.6"><title>subtext0 · #a8adc2</title></rect>
+  <rect x="420.33" y="230" width="359.33" height="45" rx="7" fill="#c0c6d8" stroke="#545667" stroke-opacity="0.6"><title>subtext1 · #c0c6d8</title></rect>
+  <rect x="785.67" y="230" width="359.33" height="45" rx="7" fill="#d3dcf2" stroke="#545667" stroke-opacity="0.6"><title>text · #d3dcf2</title></rect>
+</svg>
